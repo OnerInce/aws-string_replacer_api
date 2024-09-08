@@ -45,7 +45,7 @@ _Usage_
 Lambda function will accept input as a GET parameter and will output the result as a JSON object
 
 ```
-curl "https://bujknch3bqy6lf2cbgxf4gqdby0emqsv.lambda-url.eu-west-1.on.aws?input=We really like the new security features of Google"
+curl "<HOSTNAME>/?input=We really like the new security features of Google"
 ```
 
 Output:
